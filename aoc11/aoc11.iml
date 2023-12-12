@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="BuildSystem">
+    <option name="buildSystemId" value="LEININGEN" />
+    <option name="displayName" value="aoc11:0.1.0-SNAPSHOT" />
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: fresh:1.1.2" level="project" />
+    <orderEntry type="library" name="Leiningen: mmargs:1.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: nrepl:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.8.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/math.combinatorics:0.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.nrepl/incomplete:0.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: speclj:3.3.2" level="project" />
+    <orderEntry type="library" name="Leiningen: trptcolin/versioneer:0.1.1" level="project" />
+  </component>
+</module>
